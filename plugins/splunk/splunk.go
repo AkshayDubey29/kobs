@@ -7,7 +7,7 @@ import (
 	"github.com/kobsio/kobs/pkg/api/clusters"
 	"github.com/kobsio/kobs/pkg/api/middleware/errresponse"
 	"github.com/kobsio/kobs/pkg/api/plugins/plugin"
-	"gecgithub01.walmart.com/a0d00qf/observabilti-code-base/plugins/splunk/pkg/instance"
+	"github.com/AkshayDubey29/kobs/plugins/splunk/pkg/instance"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"
